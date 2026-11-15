@@ -47,11 +47,11 @@ The design uses a blue and yellow component colour scheme.
 
 ### Assembly Views
 
-![Gripper Assembly](Screenshots/01_gripper_assembly.png)
+![Gripper Assembly](Screenshots/01_Gripper_Assembly.png)
 
 *Complete 3D gripper assembly.*
 
-![Gripper Side View](Screenshots/02_gripper_side_view.png)
+![Gripper Side View](Screenshots/02_Gripper_Side_View.png)
 
 *Side view of the parallel jaw gripper.*
 
@@ -134,25 +134,24 @@ The simulation setup included:
 
 ### 1. Total Deformation
 
-![Total Deformation](Screenshots/03_total_deformation.png)
-
+![Total Deformation](Screenshots/03_Total_Deformation.png.png)
 Maximum deformation reported: **7.1833 × 10⁻⁷ m**
 
 ### 2. Equivalent (von-Mises) Stress
 
-![Equivalent Stress](Screenshots/04_equivalent_stress.png)
+![Equivalent Stress](Screenshots/04_Equivalent_Stress.png)
 
 Maximum equivalent stress reported: **7.7685 × 10⁵ Pa**
 
 ### 3. Equivalent Elastic Strain
 
-![Equivalent Elastic Strain](Screenshots/05_elastic_strain.png)
+![Elastic Strain](Screenshots/05_Elastic_Strain.png)
 
 Maximum equivalent elastic strain reported: **4.9633 × 10⁻⁶ m/m**
 
 ### 4. Safety Factor
 
-![Safety Factor](Screenshots/06_safety_factor.png)
+![Safety Factor](Screenshots/06_Safety_Factor.png)
 
 Minimum safety factor reported: **15**
 
