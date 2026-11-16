@@ -191,3 +191,19 @@ These results indicate favourable structural performance under the simulated loa
 **Project Category:** Mechanical Design | Robotics | CAD | Structural Simulation
 
 **Designed and documented by:** Swara Sukale
+
+---
+
+## Copyright & Usage Restrictions
+
+**Copyright © 2026 Swara Sukale. All Rights Reserved.**
+
+This project is publicly available for portfolio viewing, demonstration, and educational showcase purposes.
+
+The original project materials created by the copyright owner, including CAD designs, 3D models, engineering calculations, documentation, simulation setup, and visual assets, are protected by applicable copyright laws.
+
+No additional permission is granted to reproduce, modify, redistribute, or commercially use these original materials without prior written permission from the copyright owner, except for rights granted under GitHub's Terms of Service and applicable third-party licenses.
+
+Third-party software, libraries, and components remain subject to their respective licenses.
+
+For permission or collaboration inquiries, please contact the copyright owner.
